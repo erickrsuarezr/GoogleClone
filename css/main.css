@@ -90,14 +90,6 @@ main .main-input-container:hover{
     border-color: #dfe1e500;
 }
 
-main .main-input .search-icon{
-    background-image: url('https://upload.wikimedia.org/wikipedia/meta/thumb/7/7e/Vector_search_icon.svg/1920px-Vector_search_icon.svg.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    width: 18px;
-    height: 18px;
-}
 
 main .main-input .micro-icon{
     background-image: url('https://www.cuecamp.com/wp-content/uploads/2019/11/Google_mic.svg_.png');
@@ -175,4 +167,8 @@ footer .footer-right{
 footer ul li a{
     margin: 10px;
     color: #5f6368;
+}
+
+i{
+    color: #9aa0a6;
 }
